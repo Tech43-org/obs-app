@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.06aee8f4.js";import{_ as t,D as a,E as s,F as o,I as r}from"./index.4e31b32e.js";const c={},n=r("h1",{class:"text-h1"},"Menu Page",-1);function _(f,i){return a(),s(e,{class:"row items-top justify-evenly"},{default:o(()=>[n]),_:1})}var d=t(c,[["render",_]]);export{d as default};
