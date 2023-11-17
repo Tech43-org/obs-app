@@ -1,0 +1,1 @@
+import{b as r,c as a,u,a as c,d as S}from"./index.236a9108.js";console.log("Initialize Boot Section");console.log("  \u221F pinia.ts");var l=r(({app:o})=>{const t=a();o.use(t);const s=u(),n=c(),i=S(),e=window;typeof window!="undefined"&&(e.settingsStore=s,e.userStore=n,e.menuStore=i)});export{l as default};
