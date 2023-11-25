@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.5ab28b76.js";import{_ as a,o as t,f as s,w as r,K as c}from"./index.b52d915c.js";const o={},n=c("h1",{class:"text-h1"},"Landing Page",-1);function _(f,i){return t(),s(e,{class:"row items-center justify-evenly"},{default:r(()=>[n]),_:1})}var m=a(o,[["render",_]]);export{m as default};
