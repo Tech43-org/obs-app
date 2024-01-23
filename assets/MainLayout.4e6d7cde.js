@@ -1,1 +1,0 @@
-import{Q as a,a as r}from"./QLayout.64169676.js";import{_ as n,r as s,o as c,f as _,w as e,g as o}from"./index.b52d915c.js";import"./QResizeObserver.df06cea9.js";const f={};function i(u,l){const t=s("router-view");return c(),_(a,{view:"hHh lpR fFf"},{default:e(()=>[o(r,null,{default:e(()=>[o(t)]),_:1})]),_:1})}var v=n(f,[["render",i]]);export{v as default};

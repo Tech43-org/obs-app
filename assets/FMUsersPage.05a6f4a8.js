@@ -1,1 +1,0 @@
-import{Q as e}from"./QPage.5ab28b76.js";import{L as s,o as a,f as t,w as o,K as r}from"./index.b52d915c.js";const n=r("h1",null,"FM Users",-1),m=s({__name:"FMUsersPage",setup(_){return(c,l)=>(a(),t(e,null,{default:o(()=>[n]),_:1}))}});export{m as default};

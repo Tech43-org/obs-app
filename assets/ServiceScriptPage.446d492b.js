@@ -1,1 +1,0 @@
-import{Q as e}from"./QPage.5ab28b76.js";import{L as o,u as t,T as r,o as a,f as s,w as n,K as c}from"./index.b52d915c.js";const i=c("h1",null,"Service Script",-1),S=o({__name:"ServiceScriptPage",setup(p){return t(),r(()=>{console.log("Service Script \xBB onBeforeMount")}),(u,_)=>(a(),s(e,null,{default:n(()=>[i]),_:1}))}});export{S as default};

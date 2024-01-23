@@ -1,1 +1,0 @@
-import{Q as e}from"./QPage.cf5438ca.js";import{L as o,u as t,T as a,F as s,G as n,H as r,K as c}from"./index.6cbc1c32.js";const u=c("h1",null,"Service DAPI",-1),m=o({__name:"ServiceDAPIPage",setup(_){return t(),a(()=>{console.log("Service DAPI \xBB onBeforeMount")}),(i,l)=>(s(),n(e,null,{default:r(()=>[u]),_:1}))}});export{m as default};
